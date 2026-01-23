@@ -3,6 +3,7 @@ h1 {
 }
 .f1{
  color: tomato;
+ text-align: left;
  margin-top: 20px;
  margin-bottom: 20px;
  font-size: 20px;
@@ -10,10 +11,12 @@ h1 {
  font-family: "Times New Roman";
 }
 .f2{
- color: black;
+ color: orange;
+ text-align: left;
+ text-decoration: underline;
  margin-top: 10px;
  margin-bottom: 10px;
- font-size: 15px;
+ font-size: 17px;
  font-style: normal;
  font-family: "Times New Roman";
 }
