@@ -9,7 +9,17 @@
 }
 .menu{
    flex: 5%
-    background-color: darkblue;
+   background-color: darkblue;
+   display: flex;
+   align-items: center;
+}
+.menu hover{
+   background-color: lightblue;
+   color: black;
+}
+.menu a {
+   padding: 15px 20px;
+   color: yellow;
 }
 .content{
    flex: 15%
