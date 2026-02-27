@@ -25,7 +25,11 @@
    flex: 10%
    background-color: lightblue;
 }
-
+iframe {
+   border: none;
+   width: 100%;
+   height: 0;
+}
 
 h1 {
  color:red;
