@@ -22,7 +22,8 @@
    border: 0;
 }
 .footer{
-
+   flex: 10%
+   background-color: lightblue;
 }
 
 
