@@ -13,17 +13,17 @@
    display: flex;
    align-items: center;
 }
-.menu hover{
-   background-color: lightblue;
-   color: black;
-}
-.menu a {
+.menu a{
    padding: 15px 20px;
    color: yellow;
    text-decoration: underline;
 }
+.menu hover{
+   background-color: lightblue;
+   color: black;
+}
 .content{
-   flex: 15%;
+   flex: 70%;
    background-color: white;
 }
 .content iframe{
@@ -36,7 +36,7 @@
    flex: 10%;
    background-color: lightblue;
 }
-iframe {
+iframe{
    border: none;
    width: 100%;
    height: 0;
