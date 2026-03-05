@@ -5,11 +5,11 @@
 }
 .header{
    flex: 15%;
-   background-color: lightblue;
+   background-color: #87CEEB;
 }
 .menu{
    flex: 5%;
-   background-color: darkblue;
+   background-color: #00688B;
    display: flex;
    align-items: center;
 }
@@ -19,7 +19,7 @@
    text-decoration: underline;
 }
 .menu hover{
-   background-color: lightblue;
+   background-color: #87CEEB;
    color: black;
 }
 .content{
@@ -34,7 +34,10 @@
 }
 .footer{
    flex: 10%;
-   background-color: lightblue;
+   background-color: #87CEEB;
+   background: url("images/") center/100% 100% no-repeat;
+   width: 100%
+   aspect-ratio: 6/1;
 }
 iframe{
    border: none;
