@@ -19,7 +19,7 @@
    padding: 15px 20px;
    color: yellow;
    text-decoration: underline;}
-.menu hover{
+.menu a: hover{
    background-color: #87CEEB;
    color: black;
 }
