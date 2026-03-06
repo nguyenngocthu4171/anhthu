@@ -5,8 +5,7 @@
 }
 .header{
    flex: 15%;
-   background-color: #87CEEB;
-   background: url("images/att.Eq6RrLjCTArGZlHzrxO0smHxtRIRNPJYSzPaYV2EjW8.jpeg") center / 100%
+   background: url("images/att.Eq6RrLjCTArGZlHzrxO0smHxtRIRNPJYSzPaYV2EjW8.jpeg") center / 100%;
    width: 100%
    aspect-ratio: 6/1;
 }
