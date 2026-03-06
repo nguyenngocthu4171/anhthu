@@ -15,14 +15,13 @@
    display: flex;
    align-items: center;
 }
-.menu hover{
-   background-color: #87CEEB;
-   color: black;
-}
 .menu a{
    padding: 15px 20px;
    color: yellow;
-   text-decoration: underline;
+   text-decoration: underline;}
+.menu hover{
+   background-color: #87CEEB;
+   color: black;
 }
 .content{
    flex: 70%;
