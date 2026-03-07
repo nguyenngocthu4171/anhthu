@@ -36,9 +36,10 @@
    flex: 20%;
    color: white;
    background-color: #87CEEB;
+   font-family: "Nato Sans";
+   font-size: 10px;
    text-align: center;
    padding: 10px;
-   font-size: 13px;
 }
 iframe{
    border: none;
