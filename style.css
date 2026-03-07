@@ -33,8 +33,11 @@
    border: 0;
 }
 .footer{
-   flex: 10%;
+   flex: 20%;
+   color: #FFC125;
    background-color: #87CEEB;
+   text-align: center;
+   padding: 10px;
 }
 iframe{
    border: none;
