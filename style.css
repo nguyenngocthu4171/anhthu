@@ -18,7 +18,7 @@
    padding: 15px 20px;
    color: #FFD700;
    text-decoration: none;}
-.menu a: hover{
+.menu a:hover{
    background-color: #87CEEB;
    color: black;
 }
@@ -34,7 +34,7 @@
 }
 .footer{
    flex: 20%;
-   color: #FFC125;
+   color: white;
    background-color: #87CEEB;
    text-align: center;
    padding: 10px;
