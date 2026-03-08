@@ -24,7 +24,6 @@
 }
 .content{
    flex: 70%;
-   display: flex;
    background-color: #FFF0F5;
 }
 .content iframe{
@@ -38,7 +37,7 @@
    color: white;
    background-color: #87CEEB;
    font-family: "Arial";
-   font-size: 20px;
+   font-size: 18px;
    text-align: center;
    padding: 18px;
 }
