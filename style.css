@@ -17,7 +17,6 @@
 .menu a{
    padding: 15px 20px;
    color: #FFD700;
-   font-weight: bold;
    text-decoration: none;}
 .menu a:hover{
    background-color: #87CEEB;
@@ -39,7 +38,7 @@
    color: white;
    background-color: #87CEEB;
    font-family: "Arial";
-   font-size: 22px;
+   font-size: 20px;
    text-align: center;
    padding: 18px;
 }
